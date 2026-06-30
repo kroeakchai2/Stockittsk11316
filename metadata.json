@@ -1,0 +1,6 @@
+{
+  "name": "StockIT Admin",
+  "description": "ระบบบริหารจัดการเวชภัณฑ์ไอที - Hospital IT Asset and Inventory Management System with real-time Firestore sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
